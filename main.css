@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+}
+
+.L_logo{
+    position: absolute;
+    top: 15%;
+    height: 250px;
+    width: 500px;
+    padding: 25px;
+    margin: 25px;
+    float: left;
+    left: 20%;
+}
+
+.first_name{
+    position: absolute;
+    letter-spacing: 2px;
+    color: rgb(42,42,42);
+    right:0;
+    top:13%;
+    height: 250px;
+    width: 500px;
+    padding: 25px;
+    margin: 25px;
+    float: left;
+    left: 50%;
+    font-size: 72px;
+    font-family:sans-serif;
+    text-transform: capitalize;
+}
+
+.last_name{
+    position: absolute;
+    letter-spacing: 2px;
+    color: rgb(42,42,42);
+    right:0;
+    top:24%;
+    height: 250px;
+    width: 500px;
+    padding: 25px;
+    margin: 25px;
+    float: left;
+    left: 52%;
+    font-size: 72px;
+    font-family:sans-serif;
+    text-transform: capitalize;
+}
+
+.title{
+    position: absolute;
+    letter-spacing: 2px;
+    color: rgb(139,204,202);
+    right:0;
+    top:38%;
+    height: 250px;
+    width: 500px;
+    padding: 25px;
+    margin: 25px;
+    float: left;
+    left: 55.5%;
+    font-size: 20px;
+    font-family:sans-serif;
+    text-transform: capitalize;
+}
